@@ -4,8 +4,8 @@
   <samp>
     😆 Hey! Welcome to my profile
     <br />
-    <br />🍉 Take a look at my stats. If you want to know more about me, please visit my [blog](https://www.cnblogs.com/wangyang0210/)  🌱
-    <br />
+    <br />🍉 Take a look at my stats. 
+    <br />🌱 If you want to know more about me, please visit my <a href="https://www.cnblogs.com/wangyang0210/">blog</a>
     <br />
   </samp>
 
